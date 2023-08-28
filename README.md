@@ -14,9 +14,9 @@
 
 - 👨‍💻 All of my projects are available at [https://kerstonanto.netlify.app/](https://kerstonanto.netlify.app/)
 
-- 💬 Ask me about **HTML,CSS,Python.**
+- 💬 Ask me about **HTML,CSS,Python,Java.**
 
-- 📫 How to reach me through **Social Media's**
+- 📫 How to reach me: through **Social Media's**
 
 - ⚡ Fun fact : **programmers always mix up Christmas and Halloween Because Oct 31 == Dec 25 in JavaScript! 🎃🎄😄**
 
