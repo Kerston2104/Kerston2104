@@ -15,8 +15,8 @@
 
 - 👯 I’m looking to collaborate on **Web Developement.**
 
-- 👨‍💻 All of my projects are available at [https://kerstonanto.netlify.app/](https://kerstonanto.netlify.app/)
-- All so Look at my Personal Website At Developement[click here](https://kas-portfolio-ten.vercel.app/)
+- 👨‍💻 All of my projects are available at [old website](https://kerstonanto.netlify.app/)
+- All so Look at my Personal Website At Developement[New_website](https://kas-portfolio-ten.vercel.app/)
 
 - 💬 Ask me about **HTML,CSS,Python,Java.**
 
