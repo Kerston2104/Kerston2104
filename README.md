@@ -1,121 +1,117 @@
-<!-- Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Divya%20Patel&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=30&desc=Full-Stack%20Developer%20%7C%20AI%20Automation%20%26%20SaaS%20Specialist&descAlignY=55&descSize=20" width="100%"/>
-</div>
 
-<!-- Typing SVG -->
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=700&lines=Full-Stack+Architect+%7C+AI+%26+SaaS+Solutions;Backend+Engineer+%40+IIT+Bombay+(Popclozet);Co-Founder+%40+DD+Developers;Building+Scalable+Cloud+%26+Generative+AI+Systems" alt="Typing SVG" />
+  <!-- Hero Header Banner -->
+  <a href="https://kerstonanto.vercel.app/">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=008080&height=220&section=header&text=Kerston%20Anto%20Singh&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Architect%20%7C%20AI%20%26%20Workflow%20Engineer&descAlignY=62&descAlign=50" width="100%" alt="Kerston Anto Singh Header" />
   </a>
+
+  <br />
+
+  <!-- Action Badges -->
+  <p>
+    <a href="https://kerstonanto.vercel.app/booking">
+      <img src="https://img.shields.io/badge/Book_Consultation-E05A47?style=for-the-badge&logo=calendly&logoColor=white" alt="Book Consultation" />
+    </a>
+    <a href="https://kerstonanto.vercel.app/">
+      <img src="https://img.shields.io/badge/Official_Website-008080?style=for-the-badge&logo=firefox&logoColor=white" alt="Official Website" />
+    </a>
+    <a href="https://linkedin.com/in/kerston-anto-singh-327811249">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+  </p>
+
+  <!-- Visitor Counter -->
+  <img src="https://komarev.com/ghpvc/?username=kerston2104&label=PROFILE%20VIEWS&color=008080&style=for-the-badge" alt="Profile Views" />
+
 </div>
 
-<br/>
+<br />
 
-<!-- Profile Views & Primary CTAs -->
-<div align="center">
-  <a href="https://divya-kappa-roan.vercel.app"><img src="https://img.shields.io/badge/View_Portfolio-008080?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
-  &nbsp;
-  <a href="https://linkedin.com/in/divya-patel-b8960b284"><img src="https://img.shields.io/badge/Connect_LinkedIn-E05A47?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  &nbsp;
-  <a href="mailto:dp2212826@gmail.com"><img src="https://img.shields.io/badge/Hire_Me-008080?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  
-  <br/><br/>
-
-  <img src="https://komarev.com/ghpvc/?username=divyaspatel&label=Profile%20Views&color=008080&style=flat-square" alt="Profile views"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Open_To_Contract_Work-Yes-brightgreen?style=flat-square&labelColor=0d1117" alt="Open to Work"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Academic_CGPA-8.12%2F10-blue?style=flat-square&labelColor=0d1117" alt="CGPA"/>
+<!-- Subtitle / Value Proposition Card -->
+<div align="center" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 12px; padding: 20px; margin: 10px 0;">
+  <h3 style="color: #2ea44f; margin: 0;">⚡ Engineering Digital Excellence</h3>
+  <p style="color: #8b949e; font-size: 14px; margin-top: 8px;">
+    Specialized in <b>High-Performance Full-Stack Systems</b>, <b>Autonomous AI Workflows</b>, and scalable <b>SaaS Architectures</b>.
+  </p>
 </div>
 
----
+<br />
 
-## Executive Overview
+## 💼 Commercial Solutions & Expertise
 
-I engineer high-performance web systems, production-ready SaaS platforms, and intelligent AI automation workflows for businesses and startups.
-
-* **SaaS & Full-Stack Systems:** End-to-end cloud platforms, secure multi-tenant API engines, and PWAs designed for reliability.
-* **AI & Workflow Automation:** Custom LLM integrations, automated data pipelines, and machine learning models tailored for client efficiency.
-* **Backend & Cloud Infrastructure:** Robust database architectures, serverless implementations, and secure auth systems.
-
----
-
-## Technical & Professional Experience
-
-### Backend Developer — Popclozet | IIT Bombay
-`Nov 2025 – Present`
-
-* **PWA & API Architecture:** Engineered PWA-ready APIs supporting offline access, background data synchronization, and optimized network load.
-* **Security & Auth:** Implemented granular JWT authentication with role-based access control (RBAC) across Admin, Vendor, and Customer tiers.
-* **Database Optimization:** Integrated Supabase (PostgreSQL) for real-time inventory management, transactional tracking, and automated workflows.
-
----
-
-## Specialized Tech Arsenal
-
-| Category | Core Stack & Technologies |
-| :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/Python-008080?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-008080?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-008080?style=flat-square&logo=javascript&logoColor=white) ![Java](https://img.shields.io/badge/Java-008080?style=flat-square&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-008080?style=flat-square&logo=php&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-008080?style=flat-square&logo=mysql&logoColor=white) |
-| **Frontend Engineering** | ![React](https://img.shields.io/badge/React-E05A47?style=flat-square&logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-E05A47?style=flat-square&logo=nextdotjs&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-E05A47?style=flat-square&logo=angular&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-E05A47?style=flat-square&logo=tailwindcss&logoColor=white) ![PWA](https://img.shields.io/badge/PWA-E05A47?style=flat-square&logo=pwa&logoColor=white) |
-| **Backend & Databases** | ![Node.js](https://img.shields.io/badge/Node.js-008080?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-008080?style=flat-square&logo=express&logoColor=white) ![Django](https://img.shields.io/badge/Django-008080?style=flat-square&logo=django&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-008080?style=flat-square&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-008080?style=flat-square&logo=supabase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-008080?style=flat-square&logo=mongodb&logoColor=white) |
-| **AI, ML & Automation** | ![Generative AI](https://img.shields.io/badge/Generative_AI-E05A47?style=flat-square&logo=openai&logoColor=white) ![LLMs](https://img.shields.io/badge/LLMs-E05A47?style=flat-square&logo=openai&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-E05A47?style=flat-square&logo=scikitlearn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-E05A47?style=flat-square&logo=pandas&logoColor=white) |
-| **Cloud & Infrastructure** | ![AWS](https://img.shields.io/badge/AWS-008080?style=flat-square&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-008080?style=flat-square&logo=microsoftazure&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-008080?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-008080?style=flat-square&logo=git&logoColor=white) |
-
----
-
-## Verified Credentials & Certifications
-
-<table width="100%">
+<table>
   <tr>
-    <td width="50%" valign="top">
-      <ul>
-        <li><b>ISRO:</b> AI/ML Specialization</li>
-        <li><b>Microsoft:</b> Azure Fundamentals</li>
-        <li><b>AWS:</b> Software Architecture</li>
-        <li><b>Google:</b> Introduction to LLMs</li>
-        <li><b>LinkedIn:</b> Generative AI Solutions</li>
-        <li><b>IBM:</b> Prompt Engineering for Developers</li>
-      </ul>
+    <td width="33%" valign="top" style="border-radius: 8px;">
+      <h4 align="center">🚀 SaaS Architecture</h4>
+      <p align="center"><sub>Cloud-native platforms, secure multi-tenant API engines, and production-ready deployments built for performance and speed.</sub></p>
     </td>
-    <td width="50%" valign="top">
-      <ul>
-        <li><b>Cognitive Class:</b> SQL & Relational Databases</li>
-        <li><b>One Roadmap:</b> Full Stack Software Developer</li>
-        <li><b>Infosys Springboard:</b> Front-End Web Engineering</li>
-        <li><b>HP LIFE:</b> Effective Business Web Solutions</li>
-        <li><b>Semrush:</b> Technical SEO Optimization</li>
-        <li><b>Devfolio / IEEE:</b> TIC-TECH-TOE Awardee</li>
-      </ul>
+    <td width="33%" valign="top" style="border-radius: 8px;">
+      <h4 align="center">🤖 AI & Automation</h4>
+      <p align="center"><sub>Custom machine learning models, autonomous LLM integrations, and intelligent pipeline optimization for core operations.</sub></p>
+    </td>
+    <td width="33%" valign="top" style="border-radius: 8px;">
+      <h4 align="center">🌐 Web Systems</h4>
+      <p align="center"><sub>Conversion-driven frontends, web apps, and SEO-optimized architecture built on modern component standards.</sub></p>
     </td>
   </tr>
 </table>
 
----
+<br />
 
-## Development Activity
+## 🧭 Navigation & Resources
+
+| Portal | Scope & Description | Action |
+| :--- | :--- | :---: |
+| **🌐 Digital Hub** | Primary Portfolio & Interactive Showcase | [**Visit Site ↗**](https://kerstonanto.vercel.app/) |
+| **📁 Case Studies** | Client Deliverables & Open Source Contributions | [**Explore ↗**](https://kerstonanto.vercel.app/projects) |
+| **🏆 Track Record** | Technical Honors, Certifications & Milestones | [**View Milestones ↗**](https://kerstonanto.vercel.app/achievements) |
+| **🧠 Mind Space** | Technical Deep-Dives in Web & AI Architecture | [**Read Blog ↗**](https://kerstonanto.vercel.app/My-Mind-Space) |
+| **📬 MindsConnect** | Weekly Automation Guides & Engineering Insights | [**Subscribe ↗**](https://kerstonanto.vercel.app/Subscribe-to-Mindsconnect) |
+
+<br />
+
+## 🛠️ Technical Arsenal
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=divyaspatel&theme=tokyo-night&bg_color=0d1117&color=6AD3F7&line=6AD3F7&point=ffffff&hide_border=true" width="100%" alt="Contribution Graph"/>
+
+| Domain | Technologies & Frameworks |
+| :--- | :--- |
+| **Full-Stack Web** | ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) |
+| **AI & Machine Learning** | ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) |
+| **Database & Infrastructure** | ![](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) |
+| **Design & Engineering** | ![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white) ![](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white) |
+
 </div>
 
----
+<br />
 
-## Direct Contact & Inquiries
-
-Available for freelance contracts, SaaS consulting, and custom AI implementations.
+## 📊 Activity & Performance Analytics
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Official_Website-008080?style=for-the-badge&logo=googlechrome&logoColor=white)](https://divya-kappa-roan.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-E05A47?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/divya-patel-b8960b284)
-[![Gmail](https://img.shields.io/badge/Email_Directly-008080?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dp2212826@gmail.com)
-[![Kaggle](https://img.shields.io/badge/Kaggle-E05A47?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/divyaspatel)
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kerston2104&theme=dark&hide_border=false&border_radius=10&background=0D1117&ring=008080&fire=E05A47&currStreakNum=ffffff" alt="Development Activity Streak" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kerston2104&show_icons=true&theme=dark&hide_border=false&border_radius=10&bg_color=0D1117&title_color=008080&icon_color=E05A47" alt="GitHub Overview" width="49%" />
 
 </div>
 
-<br/>
+<br />
+
+---
+
+## 🤝 Let's Build Together
+
+> Available for commercial SaaS development, AI workflow implementations, and enterprise tech contracts.
 
 <div align="center">
-  <i>Divya Patel — Engineering Solutions for Tomorrow</i>
+
+  <a href="https://kerstonanto.vercel.app/booking">
+    <img src="https://img.shields.io/badge/Schedule_Consultation-E05A47?style=for-the-badge&logo=calendly&logoColor=white" alt="Schedule Consultation" />
+  </a>
+  <a href="mailto:kerstonanto21@gmail.com">
+    <img src="https://img.shields.io/badge/Direct_Email-008080?style=for-the-badge&logo=gmail&logoColor=white" alt="Direct Email" />
+  </a>
+  <a href="https://linkedin.com/in/kerston-anto-singh-327811249">
+    <img src="https://img.shields.io/badge/Connect_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+
 </div>
