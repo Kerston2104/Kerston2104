@@ -1,128 +1,121 @@
+<!-- Header Banner -->
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Divya%20Patel&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=30&desc=Full-Stack%20Developer%20%7C%20AI%20Automation%20%26%20SaaS%20Specialist&descAlignY=55&descSize=20" width="100%"/>
+</div>
 
-  <!-- Primary Banner -->
-  <img src="./Github banner.png" alt="Kerston Anto Singh Banner" width="100%" />
+<!-- Typing SVG -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=700&lines=Full-Stack+Architect+%7C+AI+%26+SaaS+Solutions;Backend+Engineer+%40+IIT+Bombay+(Popclozet);Co-Founder+%40+DD+Developers;Building+Scalable+Cloud+%26+Generative+AI+Systems" alt="Typing SVG" />
+  </a>
+</div>
 
-  <br />
+<br/>
 
-  <p>
-    <a href="https://kerstonanto.vercel.app/booking"><img src="https://img.shields.io/badge/Book_Consultation-E05A47?style=for-the-badge&logoColor=white" alt="Book a Consultation"/></a>
-    <a href="https://kerstonanto.vercel.app/"><img src="https://img.shields.io/badge/Official_Website-008080?style=for-the-badge&logoColor=white" alt="Website"/></a>
-    <a href="https://linkedin.com/in/kerston-anto-singh-327811249"><img src="https://img.shields.io/badge/LinkedIn-008080?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  </p>
+<!-- Profile Views & Primary CTAs -->
+<div align="center">
+  <a href="https://divya-kappa-roan.vercel.app"><img src="https://img.shields.io/badge/View_Portfolio-008080?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+  &nbsp;
+  <a href="https://linkedin.com/in/divya-patel-b8960b284"><img src="https://img.shields.io/badge/Connect_LinkedIn-E05A47?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  &nbsp;
+  <a href="mailto:dp2212826@gmail.com"><img src="https://img.shields.io/badge/Hire_Me-008080?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  
+  <br/><br/>
 
-  <img src="https://komarev.com/ghpvc/?username=kerston2104&label=Profile%20Views&color=008080&style=flat-square" alt="Profile Views" />
-
+  <img src="https://komarev.com/ghpvc/?username=divyaspatel&label=Profile%20Views&color=008080&style=flat-square" alt="Profile views"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Open_To_Contract_Work-Yes-brightgreen?style=flat-square&labelColor=0d1117" alt="Open to Work"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Academic_CGPA-8.12%2F10-blue?style=flat-square&labelColor=0d1117" alt="CGPA"/>
 </div>
 
 ---
 
-<div align="center">
+## Executive Overview
 
-### Engineering Digital Excellence
-*Specialized in High-Performance Full-Stack Systems, Autonomous AI Workflows, and SaaS Architectures.*
+I engineer high-performance web systems, production-ready SaaS platforms, and intelligent AI automation workflows for businesses and startups.
 
-</div>
+* **SaaS & Full-Stack Systems:** End-to-end cloud platforms, secure multi-tenant API engines, and PWAs designed for reliability.
+* **AI & Workflow Automation:** Custom LLM integrations, automated data pipelines, and machine learning models tailored for client efficiency.
+* **Backend & Cloud Infrastructure:** Robust database architectures, serverless implementations, and secure auth systems.
 
 ---
 
-## Services & Commercial Solutions
+## Technical & Professional Experience
+
+### Backend Developer — Popclozet | IIT Bombay
+`Nov 2025 – Present`
+
+* **PWA & API Architecture:** Engineered PWA-ready APIs supporting offline access, background data synchronization, and optimized network load.
+* **Security & Auth:** Implemented granular JWT authentication with role-based access control (RBAC) across Admin, Vendor, and Customer tiers.
+* **Database Optimization:** Integrated Supabase (PostgreSQL) for real-time inventory management, transactional tracking, and automated workflows.
+
+---
+
+## Specialized Tech Arsenal
+
+| Category | Core Stack & Technologies |
+| :--- | :--- |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-008080?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-008080?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-008080?style=flat-square&logo=javascript&logoColor=white) ![Java](https://img.shields.io/badge/Java-008080?style=flat-square&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-008080?style=flat-square&logo=php&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-008080?style=flat-square&logo=mysql&logoColor=white) |
+| **Frontend Engineering** | ![React](https://img.shields.io/badge/React-E05A47?style=flat-square&logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-E05A47?style=flat-square&logo=nextdotjs&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-E05A47?style=flat-square&logo=angular&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-E05A47?style=flat-square&logo=tailwindcss&logoColor=white) ![PWA](https://img.shields.io/badge/PWA-E05A47?style=flat-square&logo=pwa&logoColor=white) |
+| **Backend & Databases** | ![Node.js](https://img.shields.io/badge/Node.js-008080?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-008080?style=flat-square&logo=express&logoColor=white) ![Django](https://img.shields.io/badge/Django-008080?style=flat-square&logo=django&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-008080?style=flat-square&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-008080?style=flat-square&logo=supabase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-008080?style=flat-square&logo=mongodb&logoColor=white) |
+| **AI, ML & Automation** | ![Generative AI](https://img.shields.io/badge/Generative_AI-E05A47?style=flat-square&logo=openai&logoColor=white) ![LLMs](https://img.shields.io/badge/LLMs-E05A47?style=flat-square&logo=openai&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-E05A47?style=flat-square&logo=scikitlearn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-E05A47?style=flat-square&logo=pandas&logoColor=white) |
+| **Cloud & Infrastructure** | ![AWS](https://img.shields.io/badge/AWS-008080?style=flat-square&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-008080?style=flat-square&logo=microsoftazure&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-008080?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-008080?style=flat-square&logo=git&logoColor=white) |
+
+---
+
+## Verified Credentials & Certifications
 
 <table width="100%">
   <tr>
-    <td width="33%" valign="top">
-      <h4>SaaS Architecture</h4>
-      <p>End-to-end cloud platforms, secure multi-tenant API engines, and production-ready deployments engineered for speed and scalability.</p>
+    <td width="50%" valign="top">
+      <ul>
+        <li><b>ISRO:</b> AI/ML Specialization</li>
+        <li><b>Microsoft:</b> Azure Fundamentals</li>
+        <li><b>AWS:</b> Software Architecture</li>
+        <li><b>Google:</b> Introduction to LLMs</li>
+        <li><b>LinkedIn:</b> Generative AI Solutions</li>
+        <li><b>IBM:</b> Prompt Engineering for Developers</li>
+      </ul>
     </td>
-    <td width="33%" valign="top">
-      <h4>AI & Workflow Automation</h4>
-      <p>Custom machine learning models, autonomous LLM integrations, and intelligent pipeline optimization for business automation.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h4>Modern Web Systems</h4>
-      <p>Conversion-driven web design, ultra-fast frontend performance, and SEO-optimized web application engineering.</p>
+    <td width="50%" valign="top">
+      <ul>
+        <li><b>Cognitive Class:</b> SQL & Relational Databases</li>
+        <li><b>One Roadmap:</b> Full Stack Software Developer</li>
+        <li><b>Infosys Springboard:</b> Front-End Web Engineering</li>
+        <li><b>HP LIFE:</b> Effective Business Web Solutions</li>
+        <li><b>Semrush:</b> Technical SEO Optimization</li>
+        <li><b>Devfolio / IEEE:</b> TIC-TECH-TOE Awardee</li>
+      </ul>
     </td>
   </tr>
 </table>
 
 ---
 
-## Quick Navigation Links
+## Development Activity
 
 <div align="center">
-
-| Destination | Resource Description | Direct Access |
-| :--- | :--- | :---: |
-| **Main Hub** | Primary Portfolio & Digital Experience | [Visit Site](https://kerstonanto.vercel.app/) |
-| **Case Studies** | Live Client & Open Source Projects | [Explore Projects](https://kerstonanto.vercel.app/projects) |
-| **Track Record** | Recognized Honors & Milestones | [View Achievements](https://kerstonanto.vercel.app/achievements) |
-| **Engineering Blog** | Deep Dives into Web & AI Tech | [Read My Mind Space](https://kerstonanto.vercel.app/My-Mind-Space) |
-| **Newsletter** | Tech Insights & Automation Guides | [Join MindsConnect](https://kerstonanto.vercel.app/Subscribe-to-Mindsconnect) |
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=divyaspatel&theme=tokyo-night&bg_color=0d1117&color=6AD3F7&line=6AD3F7&point=ffffff&hide_border=true" width="100%" alt="Contribution Graph"/>
 </div>
 
 ---
 
-## Technical Stack & Arsenal
+## Direct Contact & Inquiries
 
-<table width="100%">
-  <tr>
-    <td width="25%"><b>Full-Stack Web</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/HTML5-008080?style=flat-square&logo=html5&logoColor=white" />
-      <img src="https://img.shields.io/badge/CSS3-008080?style=flat-square&logo=css3&logoColor=white" />
-      <img src="https://img.shields.io/badge/JavaScript-008080?style=flat-square&logo=javascript&logoColor=white" />
-      <img src="https://img.shields.io/badge/Java-008080?style=flat-square&logo=openjdk&logoColor=white" />
-      <img src="https://img.shields.io/badge/Flutter-008080?style=flat-square&logo=flutter&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td width="25%"><b>AI & Machine Learning</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Python-E05A47?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/TensorFlow-E05A47?style=flat-square&logo=tensorflow&logoColor=white" />
-      <img src="https://img.shields.io/badge/Pandas-E05A47?style=flat-square&logo=pandas&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td width="25%"><b>Database & Infra</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/MySQL-008080?style=flat-square&logo=mysql&logoColor=white" />
-      <img src="https://img.shields.io/badge/Git-008080?style=flat-square&logo=git&logoColor=white" />
-      <img src="https://img.shields.io/badge/Linux-008080?style=flat-square&logo=linux&logoColor=white" />
-      <img src="https://img.shields.io/badge/Bash-008080?style=flat-square&logo=gnu-bash&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td width="25%"><b>Design & Prototyping</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Figma-E05A47?style=flat-square&logo=figma&logoColor=white" />
-      <img src="https://img.shields.io/badge/Arduino-E05A47?style=flat-square&logo=arduino&logoColor=white" />
-      <img src="https://img.shields.io/badge/MATLAB-E05A47?style=flat-square" />
-    </td>
-  </tr>
-</table>
-
----
-
-## Commit & Development Analytics
+Available for freelance contracts, SaaS consulting, and custom AI implementations.
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kerston2104&show_icons=true&theme=teal&hide_border=true&count_private=true&include_all_commits=true" height="150" alt="GitHub Metrics" />
-  <img src="https://streak-stats.demolab.com?user=Kerston2104&theme=teal&hide_border=true" height="150" alt="Development Activity" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kerston2104&layout=compact&theme=teal&hide_border=true&card_width=320" height="150" alt="Primary Language Metrics" />
+
+[![Portfolio](https://img.shields.io/badge/Official_Website-008080?style=for-the-badge&logo=googlechrome&logoColor=white)](https://divya-kappa-roan.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-E05A47?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/divya-patel-b8960b284)
+[![Gmail](https://img.shields.io/badge/Email_Directly-008080?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dp2212826@gmail.com)
+[![Kaggle](https://img.shields.io/badge/Kaggle-E05A47?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/divyaspatel)
+
 </div>
 
----
-
-## Let's Build Together
-
-Currently open for commercial SaaS development, AI workflow implementations, and enterprise contracts.
+<br/>
 
 <div align="center">
-
-[![Book Call](https://img.shields.io/badge/Schedule_Consultation-E05A47?style=for-the-badge&logoColor=white)](https://kerstonanto.vercel.app/booking)
-[![Direct Email](https://img.shields.io/badge/Email_Me-008080?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kerstonanto21@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Connect_LinkedIn-008080?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kerston-anto-singh-327811249)
-
+  <i>Divya Patel — Engineering Solutions for Tomorrow</i>
 </div>
