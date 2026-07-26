@@ -1,7 +1,9 @@
 <div align="center">
 
-  <!-- Dynamic Responsive Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=008080&height=200&section=header&text=Kerston%20Anto%20Singh&fontSize=40&fontColor=ffffff&desc=Full-Stack%20Developer%20|%20AI%20Automation%20%26%20SaaS&descSize=18&descAlignY=62" alt="Header Banner" width="100%" />
+  <br />
+  <h1>Kerston Anto Singh</h1>
+  <p><b>Full-Stack Developer | AI Automation & SaaS Solutions Specialist</b></p>
+  <p><i>Building scalable web platforms, automated AI workflows, and high-performance SaaS products for businesses.</i></p>
 
   <p>
     <a href="https://kerstonanto.vercel.app/booking"><img src="https://img.shields.io/badge/Book_a_Consultation-E05A47?style=for-the-badge&logoColor=white" alt="Book a Consultation"/></a>
