@@ -1,12 +1,7 @@
 <div align="center">
 
-  <!-- Header Banner -->
-  <img src="https://github.com/Kerston2104/Kerston2104/assets/113289902/4596e683-ad22-4145-b452-deb126b3df61" alt="Kerston Anto Singh Banner" width="100%" />
-
-  # Kerston Anto Singh
-  ### Full-Stack Developer | AI Automation & SaaS Solutions Specialist
-
-  <p>Building scalable web platforms, automated AI workflows, and high-performance SaaS products for businesses.</p>
+  <!-- Dynamic Responsive Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=008080&height=200&section=header&text=Kerston%20Anto%20Singh&fontSize=40&fontColor=ffffff&desc=Full-Stack%20Developer%20|%20AI%20Automation%20%26%20SaaS&descSize=18&descAlignY=62" alt="Header Banner" width="100%" />
 
   <p>
     <a href="https://kerstonanto.vercel.app/booking"><img src="https://img.shields.io/badge/Book_a_Consultation-E05A47?style=for-the-badge&logoColor=white" alt="Book a Consultation"/></a>
@@ -22,7 +17,7 @@
 
 ## Services & Solutions
 
-I engineering client-focused solutions designed to drive technical efficiency and commercial scale.
+I engineer client-focused solutions designed to drive technical efficiency and commercial scale.
 
 * **SaaS Development:** Full-cycle application architecture, API integration, and production deployment.
 * **AI & Workflow Automation:** Custom machine learning solutions, automated pipeline integrations, and process optimization.
